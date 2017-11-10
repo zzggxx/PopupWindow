@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\res\\merged\\release\\layout\\pop_menu.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\PopupWindow\\src\\main\\res\\layout\\pop_menu.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\res\\merged\\release\\layout\\pop_down.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\PopupWindow\\src\\main\\res\\layout\\pop_down.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\res\\merged\\release\\layout\\pop_up.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\PopupWindow\\src\\main\\res\\layout\\pop_up.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\res\\merged\\release\\layout\\pop_lr.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\PopupWindow\\src\\main\\res\\layout\\pop_lr.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\PopupWindow\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

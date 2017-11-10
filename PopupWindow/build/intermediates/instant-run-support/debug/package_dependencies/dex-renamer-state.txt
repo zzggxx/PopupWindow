@@ -1,0 +1,22 @@
+#Tue Oct 31 11:03:35 CST 2017
+renamed.6=classes5.dex
+renamed.5=classes6.dex
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes7.dex
+base.6=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e25ccca2ed781372b2c6e243e5037aa364aa2580
+base.5=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e3ba0392bf60d6a8fcb7dd4b776a9f4cc838f491
+base.4=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_36a3eaf8b76e54d202e1ffb7cd7641fb40596501
+base.3=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_54af0da34db246ab98820428492c5902feff168a
+base.2=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5ec0e02286ebbad7959664ac820cb379f145477f
+base.1=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_057c62d7ffde7fee03fe9c0de82a25c2ff4f361e
+base.0=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_550adfaf38e49c9ec7c4bfe57671f3577840f631
+file.6=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e25ccca2ed781372b2c6e243e5037aa364aa2580\\classes.dex
+file.5=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e3ba0392bf60d6a8fcb7dd4b776a9f4cc838f491\\classes.dex
+file.4=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_36a3eaf8b76e54d202e1ffb7cd7641fb40596501\\classes.dex
+file.3=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_54af0da34db246ab98820428492c5902feff168a\\classes.dex
+file.2=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5ec0e02286ebbad7959664ac820cb379f145477f\\classes.dex
+file.1=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_057c62d7ffde7fee03fe9c0de82a25c2ff4f361e\\classes.dex
+file.0=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_550adfaf38e49c9ec7c4bfe57671f3577840f631\\classes.dex

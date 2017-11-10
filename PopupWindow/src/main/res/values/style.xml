@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="pop_text_style">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="anim" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+
+</resources>

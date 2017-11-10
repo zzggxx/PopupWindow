@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2.25dp"
+        android:layout_alignParentTop="true"
+        android:background="#fa7829" />
+
+    <TextView
+        android:id="@+id/pop_java"
+        style="@style/pop_text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Java" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#757575" />
+
+    <TextView
+        android:id="@+id/pop_ios"
+        style="@style/pop_text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IOS" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#757575" />
+
+    <TextView
+        android:id="@+id/pop_android"
+        style="@style/pop_text_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+</LinearLayout>

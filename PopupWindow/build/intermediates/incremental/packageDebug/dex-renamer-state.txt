@@ -1,0 +1,7 @@
+#Tue Oct 31 11:03:35 CST 2017
+base.0=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1994b378c32fe275f0c655f802e5c79b5f488a0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3847c305e4c2a9ec5033583d42fd7fd6985528a4\\classes.dex
+base.1=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3847c305e4c2a9ec5033583d42fd7fd6985528a4
+file.0=F\:\\will_meijuji_learn\\Test\\PopupWindow\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1994b378c32fe275f0c655f802e5c79b5f488a0\\classes.dex
